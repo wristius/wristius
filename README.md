@@ -1,6 +1,6 @@
 # Tyler Avery
 
-Aspiring data analytics professional, building the skills to turn messy data into clear answers.
+Aspiring data analytics professional, building the skills to polish data into vessels of clarity.
 
 I'm a B.S. Data Analytics student at Western Governors University, studying fully online and self-paced, with a background in machine learning and deep learning models.
 
@@ -27,6 +27,6 @@ I'm a B.S. Data Analytics student at Western Governors University, studying full
 
 ## Focus
 
-Data analysis first, with a machine learning background behind it. I'm especially interested in work where the data has to be cleaned, checked, and explained honestly — not just modelled.
+I want to embellish my Data analysis skills first, but I'm also using this as a platform to curate some creative projects. As of right now expect some vibe-coding until I gain some more experience. 
 
 Portfolio projects are being added here as I build them.
